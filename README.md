@@ -1,2 +1,4 @@
 # CoffeeShop-Practice
-Responsive Coffee Shop Website, built using CSS, HTML and JS
+Responsive coffee shop website practice, built using CSS, HTML and JS.
+
+Inspired by this video: https://youtu.be/MYFgtnKMDp4
